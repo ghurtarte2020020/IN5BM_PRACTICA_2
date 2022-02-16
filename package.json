@@ -1,0 +1,29 @@
+{
+  "name": "laboratorio-2-2020020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghurtarte2020020/IN5BM_PRACTICA_2.git"
+  },
+  "author": "ghurtarte-2020020",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghurtarte2020020/IN5BM_PRACTICA_2/issues"
+  },
+  "homepage": "https://github.com/ghurtarte2020020/IN5BM_PRACTICA_2#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
+  }
+}
